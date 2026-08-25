@@ -1,4 +1,5 @@
 .env
 b.html
-/vender/a.php
-/vender/b.php
+# /vender/a.php
+# /vender/b.php
+/vender
